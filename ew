@@ -1,0 +1,3 @@
+String path = "/opt/apache-tomcat-8.5.28/webapps/Galaxy_0416/WEB-INF/pages";
+	String filename = "counter.txt";	
+	String file = path + filename;
